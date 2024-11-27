@@ -6,8 +6,8 @@
 <p align="center" width="150px"> Vica Code es un manera en la cual la pasion de la tecnología y la programación va dedicado a compartir sus conocimientos de manera sencilla y práctica. Su objetivo es inspirar y ayudar a otros a desarrollar sus habilidades en el mundo digital.</p>
 
 <p align="center"><b>Recuento de visitantes</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
-<div id="sfczusjdmr2kn3573n5ax84ll8w2hrsnz3s"></div><noscript><a href="https://www.contadorvisitasgratis.com" title="contadores para blogger"><img src="https://counter6.optistats.ovh/private/contadorvisitasgratis.php?c=zusjdmr2kn3573n5ax84ll8w2hrsnz3s" border="0" title="contadores para blogger" alt="contadores para blogger"></a></noscript>
+<p align="center"><img src="https://profile-counter.glitch.me/VicaCode/count.svg" alt="visitor badge"/></p>
+
 
 
 
